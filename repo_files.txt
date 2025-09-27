@@ -1,3 +1,4 @@
-ok i created a file in repo site,
-lets see i can see this in local repo, by downloading remote repo in local pc files
- 
+
+so only files which are new changed in remote repo are download, but if they exists are not in my pc 
+i deleted both sra2, repo_files, but only updated repo_files,
+it will download the changed (repo_files) not this are not exists in my pc (both repo_files, sra2 not present)
