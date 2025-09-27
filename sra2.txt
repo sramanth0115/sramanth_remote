@@ -1,6 +1,7 @@
 i made change and saved it.to see what happens in git repo
 i made change for secoond time like version 2 
 i made change for third time like version 3 
+i made changes in remote repo so lets to see the update in my local pc ok 
 
  Fav Chaps
 
