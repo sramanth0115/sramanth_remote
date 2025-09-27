@@ -1,3 +1,4 @@
-i created a repo_files2 
-i created a repo_files then update it right after
-i updated already exists file sra2.txt 
+ok i deleted the files
+
+when i do git pull, it will only add new commits or updated commist
+it will not see if the file exists in pc or not or deleted it will download after pervious git pull how many changes or made
